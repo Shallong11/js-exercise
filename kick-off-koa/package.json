@@ -1,0 +1,19 @@
+{
+  "name": "kick-off-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co-body": "^4.2.0",
+    "co-views": "^2.1.0",
+    "cookies": "^0.6.2",
+    "ejs": "^2.5.5",
+    "koa": "^1.2.4",
+    "koa-session": "^3.4.0"
+  }
+}
